@@ -94,7 +94,7 @@ Successful login redirects to the portfolio page
 Logout clears the session and redirects to the landing page
 
 🌐 Live Demo
-👉 Live URL: (Will be added after deployment)
+👉 Live URL: https://portfolio-web-app-1.onrender.com
 
 👤 Author
 Srinidhi M D
